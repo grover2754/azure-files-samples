@@ -10,4 +10,4 @@ The following options exist to AutoGrow by X% (Default 20%)
 2. Do all of this manually using the step-by-step guide.
 ## Function Options
 1. Autogrow by Quota (see autoincrease PFS quota script)
-1. Autogrow by Throttling (autoincrease PFS throttle script)
+1. Autogrow by Throttling (see autoincrease PFS throttle script)
